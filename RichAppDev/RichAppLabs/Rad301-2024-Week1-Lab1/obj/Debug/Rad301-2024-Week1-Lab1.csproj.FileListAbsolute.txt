@@ -1,0 +1,7 @@
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\RichAppLabs\Rad301-2024-Week1-Lab1\obj\Debug\Rad301-2024-Week1-Lab1.csproj.AssemblyReference.cache
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\RichAppLabs\Rad301-2024-Week1-Lab1\obj\Debug\Rad301-2024-Week1-Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\RichAppLabs\Rad301-2024-Week1-Lab1\bin\Debug\Rad301-2024-Week1-Lab1.exe.config
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\RichAppLabs\Rad301-2024-Week1-Lab1\bin\Debug\Rad301-2024-Week1-Lab1.exe
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\RichAppLabs\Rad301-2024-Week1-Lab1\bin\Debug\Rad301-2024-Week1-Lab1.pdb
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\RichAppLabs\Rad301-2024-Week1-Lab1\obj\Debug\Rad301-2024-Week1-Lab1.exe
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\RichAppLabs\Rad301-2024-Week1-Lab1\obj\Debug\Rad301-2024-Week1-Lab1.pdb

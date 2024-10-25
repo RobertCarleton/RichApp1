@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace Rad301_2024_Week1_Lab1
 {
-    internal class Category
+    public class Category
     {
+        public int ID { get; set; }
+        public string Description { get; set; }
+
+        public Category(int Id, string desc)
+        {
+            ID = Id;
+            Description = desc;
+        }
+
     }
 }
