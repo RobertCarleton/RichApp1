@@ -60,10 +60,11 @@ namespace Rad301_2024_Week1_Lab1
             //Q6(c)
             Console.WriteLine("Q6(c)");
             var pds = products.Where(p => p.QuantityInStock <= 100).ToList();
-            for (int i = 0; i < pds.Count; i++)
+            //for (int i = 0; i < pds.Count; i++)
+            foreach (var products in pds)
             {
-                Console.WriteLine((products[i].ProductID, products[i].Description, " #" + products[i].QuantityInStock, " €" + products[i].UnitPrice,
-                    products[i].CategoryID).ToString());
+                Console.WriteLine((products.ProductID, products.Description, " #" + products.QuantityInStock, " €" + products.UnitPrice,
+                    products.CategoryID).ToString());
             }
 
             //Q7(a)
