@@ -1,0 +1,40 @@
+﻿@page
+@model W5L2.Pages.Userss.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>UserB</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserB.title" class="control-label"></label>
+                <select asp-for="UserB.title" class="form-control"></select>
+                <span asp-validation-for="UserB.title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserB.Biography" class="control-label"></label>
+                <input asp-for="UserB.Biography" class="form-control" />
+                <span asp-validation-for="UserB.Biography" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="UserB.UserID" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

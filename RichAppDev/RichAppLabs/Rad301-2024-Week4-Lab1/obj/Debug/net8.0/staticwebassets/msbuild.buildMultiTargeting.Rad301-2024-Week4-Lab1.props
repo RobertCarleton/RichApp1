@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Rad301-2024-Week4-Lab1.props" />
+</Project>

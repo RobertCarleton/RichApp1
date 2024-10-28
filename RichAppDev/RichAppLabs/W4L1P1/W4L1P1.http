@@ -1,0 +1,36 @@
+﻿@W4L1P1_HostAddress = https://localhost:7190
+
+POST {{W4L1P1_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name":"walk dog",
+  "todoStatus": "Complete",
+  "priority": 1
+}
+
+###
+
+Get {{W4L1P1_HostAddress}}/todoitems/status/InProgress
+
+### 
+
+GET {{W4L1P1_HostAddress}}/todoitems/1
+
+###
+
+PUT {{W4L1P1_HostAddress}}/todoitems/2
+Content-Type: application/json
+
+{
+  "name":"feed fish",
+  "todoStatus": "InProgress",
+  "priority": 2
+}
+
+###
+
+DELETE {{W4L1P1_HostAddress}}/todoitems/1
+
+### Get all items with a specific priority
+GET {{W4L1P1_HostAddress}}/todoitems/priority/1

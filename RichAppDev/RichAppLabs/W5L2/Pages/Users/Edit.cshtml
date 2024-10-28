@@ -1,0 +1,55 @@
+﻿@page
+@model W5L2.Pages.Users.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>UserA</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="UserA.ID" />
+            <div class="form-group">
+                <label asp-for="UserA.FName" class="control-label"></label>
+                <input asp-for="UserA.FName" class="form-control" />
+                <span asp-validation-for="UserA.FName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserA.LName" class="control-label"></label>
+                <input asp-for="UserA.LName" class="form-control" />
+                <span asp-validation-for="UserA.LName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserB.title" class="control-label"></label>
+                <select asp-for="UserB.title" class="form-control" asp-items="@(new List<SelectListItem> { new SelectListItem { Text = "Select...", Value = "" } }.Concat(Html.GetEnumSelectList<W5L2.Models.Title>()))"></select>
+                <span asp-validation-for="UserB.title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserB.Biography" class="control-label"></label>
+                <input asp-for="UserB.Biography" class="form-control" />
+                <span asp-validation-for="UserB.Biography" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserA.Age" class="control-label"></label>
+                <input asp-for="UserA.Age" class="form-control" />
+                <span asp-validation-for="UserA.Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

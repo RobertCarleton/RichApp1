@@ -1,0 +1,38 @@
+﻿@W4L1P2_HostAddress = https://localhost:7232
+
+POST {{W4L1P2_HostAddress}}/ads/
+Content-Type: application/json
+
+{
+  "AdName": "Surgeon Blade",
+  "SellerName":"MichaelJ",
+  "Description":"Plastic Surgery Equipment",
+  "CategoryName":"Surgical",
+  "Price":100,
+  "Type":"Paid"
+}
+###
+
+GET {{W4L1P2_HostAddress}}/ads/seller/MichaelJ
+
+###
+
+GET {{W4L1P2_HostAddress}}/ads/category/Surgical
+###
+
+PUT {{W4L1P2_HostAddress}}/ads/2
+Content-Type: application/json
+
+{
+  "AdName": "Pepperoni",
+  "SellerName":"Roberto",
+  "Description":"The Greatest Pizza",
+  "CategoryName": "Fast Food",
+  "Price":0,
+  "Type":"Free"
+}
+###
+
+DELETE {{W4L1P2_HostAddress}}/ads/71
+
+###

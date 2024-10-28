@@ -1,0 +1,36 @@
+﻿@Rad3012024Week4Lab1_HostAddress = https://localhost:7166
+
+POST {{Rad3012024Week4Lab1_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name":"walk dog",
+  "todoStatus": "NotStarted",
+  "priority": 1
+}
+
+###
+
+Get {{Rad3012024Week4Lab1_HostAddress}}/todoitems
+
+### 
+
+GET {{Rad3012024Week4Lab1_HostAddress}}/todoitems/1
+
+###
+
+PUT {{Rad3012024Week4Lab1_HostAddress}}/todoitems/1
+Content-Type: application/json
+
+{
+  "name":"feed fish",
+  "todoStatus": "InProgress",
+  "priority": 2
+}
+
+###
+
+DELETE {{Rad3012024Week4Lab1_HostAddress}}/todoitems/1
+
+### Get all items with a specific priority
+GET {{Rad3012024Week4Lab1_HostAddress}}/todoitems/priority/1
