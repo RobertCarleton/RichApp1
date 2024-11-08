@@ -1,0 +1,12 @@
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\bin\Debug\net8.0\StudentClassLibrary.deps.json
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\bin\Debug\net8.0\StudentClassLibrary.dll
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\bin\Debug\net8.0\StudentClassLibrary.pdb
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\StudentClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\StudentClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\StudentClassLibrary.AssemblyInfo.cs
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\StudentClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\StudentClassLibrary.sourcelink.json
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\StudentClassLibrary.dll
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\refint\StudentClassLibrary.dll
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\StudentClassLibrary.pdb
+C:\Users\Robert C\Documents\GitHub\RichApp1\RichAppDev\W6L1\StudentClassLibrary\obj\Debug\net8.0\ref\StudentClassLibrary.dll

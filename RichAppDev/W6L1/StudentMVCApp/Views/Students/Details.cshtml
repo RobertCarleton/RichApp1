@@ -1,0 +1,53 @@
+﻿@model StudentClassLibrary.Models.Student
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+    </dl>
+</div>
+<h3>Course Information</h3>
+
+@if (Model.Course != null)
+{
+    <p>
+        <strong>Course:</strong>
+        <a asp-controller="Courses" asp-action="Details" asp-route-id="@Model.Course.Id">
+            @Model.Course.Name
+        </a>
+    </p>
+    <p><strong>Department:</strong> @Model.Course.DepartmentName</p>
+    <p><strong>Lecturer:</strong> @Model.Course.LecturerName</p>
+}
+else
+{
+    <p>This student is not enrolled in a course.</p>
+}
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

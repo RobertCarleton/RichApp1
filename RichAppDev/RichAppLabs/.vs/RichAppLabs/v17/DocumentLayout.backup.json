@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\data\\w5l2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\data\\w5l2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,14 +35,6 @@
       "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\data\\w5l2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|solutionrelative:w5l2\\data\\w5l2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5ACFB040-E7E0-456F-94E7-7224A9032187}|W5L2\\W5L2.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\richapplabs\\w5l2\\models\\usera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -118,26 +118,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Create.cshtml",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Create.cshtml",
               "RelativeToolTip": "W5L2\\Pages\\Users\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAADFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBsAAADFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-28T21:46:24.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Create.cshtml.cs*",
-              "RelativeToolTip": "W5L2\\Pages\\Users\\Create.cshtml.cs*",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "W5L2\\Pages\\Users\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T21:46:24.781Z",
               "EditorCaption": ""
@@ -145,19 +145,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Details.cshtml",
-              "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Details.cshtml",
-              "RelativeToolTip": "W5L2\\Pages\\Users\\Details.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T21:46:25.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Details.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Details.cshtml.cs",
@@ -170,33 +157,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Edit.cshtml",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Edit.cshtml",
               "RelativeToolTip": "W5L2\\Pages\\Users\\Edit.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABwAAADFAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwBwAAADFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-28T21:46:24.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Edit.cshtml.cs",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Edit.cshtml.cs",
               "RelativeToolTip": "W5L2\\Pages\\Users\\Edit.cshtml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAACgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIBJwCgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T21:46:24.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Index.cshtml",
@@ -209,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Index.cshtml.cs",
@@ -222,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Program.cs",
               "RelativeDocumentMoniker": "W5L2\\Program.cs",
@@ -235,7 +222,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "W5L2Context.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Data\\W5L2Context.cs",
+              "RelativeDocumentMoniker": "W5L2\\Data\\W5L2Context.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Data\\W5L2Context.cs",
+              "RelativeToolTip": "W5L2\\Data\\W5L2Context.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwBgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:36:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Details.cshtml",
+              "RelativeToolTip": "W5L2\\Pages\\Users\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T21:46:25.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Delete.cshtml.cs",
@@ -248,28 +261,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "W5L2\\Pages\\Users\\Delete.cshtml",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Pages\\Users\\Delete.cshtml",
               "RelativeToolTip": "W5L2\\Pages\\Users\\Delete.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAIBJwCQAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-28T21:46:25.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "W5L2Context.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Data\\W5L2Context.cs",
-              "RelativeDocumentMoniker": "W5L2\\Data\\W5L2Context.cs",
-              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Data\\W5L2Context.cs",
-              "RelativeToolTip": "W5L2\\Data\\W5L2Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T18:36:51.341Z",
               "EditorCaption": ""
             },
             {
@@ -293,7 +293,7 @@
               "RelativeDocumentMoniker": "W5L2\\Models\\UserB.cs",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\RichAppLabs\\W5L2\\Models\\UserB.cs",
               "RelativeToolTip": "W5L2\\Models\\UserB.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T22:07:07.211Z",
               "EditorCaption": ""
