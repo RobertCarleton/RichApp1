@@ -3,12 +3,92 @@
   "WorkspaceRootPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0D43D20-DEF6-4792-87B4-BAF2CACE2B46}|WebApp1\\WebApp1.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\webapp1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C0D43D20-DEF6-4792-87B4-BAF2CACE2B46}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0D43D20-DEF6-4792-87B4-BAF2CACE2B46}|WebApp1\\WebApp1.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0D43D20-DEF6-4792-87B4-BAF2CACE2B46}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\di_basepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\di_basepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\authorization\\contactoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\authorization\\contactoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\authorization\\contactadministratorsauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\authorization\\contactadministratorsauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\authorization\\contactmanagerauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\authorization\\contactmanagerauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\authorization\\contactisownerauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\authorization\\contactisownerauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D43D20-DEF6-4792-87B4-BAF2CACE2B46}|WebApp1\\WebApp1.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\webapp1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D43D20-DEF6-4792-87B4-BAF2CACE2B46}|WebApp1\\WebApp1.csproj|solutionrelative:webapp1\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week7\\contactmanager\\pages\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33BBB800-62B1-432D-AEB4-0C1FF92D83B8}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +98,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 17,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T09:28:07.429Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -30,28 +123,275 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\WebApp1\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "WebApp1\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\WebApp1\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "WebApp1\\ScaffoldingReadMe.txt",
+              "DocumentIndex": 11,
+              "Title": "DI_BasePageModel.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\DI_BasePageModel.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\DI_BasePageModel.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\DI_BasePageModel.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\DI_BasePageModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:21:20.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Authorization\\ContactOperations.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Authorization\\ContactOperations.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Authorization\\ContactOperations.cs",
+              "RelativeToolTip": "ContactManager\\Authorization\\ContactOperations.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:20:13.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactAdministratorsAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Authorization\\ContactAdministratorsAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Authorization\\ContactAdministratorsAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Authorization\\ContactAdministratorsAuthorizationHandler.cs",
+              "RelativeToolTip": "ContactManager\\Authorization\\ContactAdministratorsAuthorizationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:18:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactManagerAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Authorization\\ContactManagerAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Authorization\\ContactManagerAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Authorization\\ContactManagerAuthorizationHandler.cs",
+              "RelativeToolTip": "ContactManager\\Authorization\\ContactManagerAuthorizationHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:17:19.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ContactIsOwnerAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Authorization\\ContactIsOwnerAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Authorization\\ContactIsOwnerAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Authorization\\ContactIsOwnerAuthorizationHandler.cs",
+              "RelativeToolTip": "ContactManager\\Authorization\\ContactIsOwnerAuthorizationHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:06:47.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\WebApp1\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp1\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\WebApp1\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "WebApp1\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:49:56.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManager\\Models\\Contact.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:35:35.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:32:18.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Program.cs",
+              "RelativeToolTip": "ContactManager\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:24:52.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Data\\SeedData.cs",
+              "RelativeToolTip": "ContactManager\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:24:25.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:09:12.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAUwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:09:12.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:09:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-14T19:25:44.813Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:09:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:09:11.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\WebApp1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\WebApp1\\Program.cs",
-              "RelativeToolTip": "WebApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAKAAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAUwF4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:09:11.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T19:18:23.953Z",
+              "WhenOpened": "2024-12-15T08:09:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:09:11.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:09:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T08:09:11.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week7\\ContactManager\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactManager\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T08:08:03.812Z",
               "EditorCaption": ""
             }
           ]

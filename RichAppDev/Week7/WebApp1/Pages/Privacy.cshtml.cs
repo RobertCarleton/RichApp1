@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 namespace WebApp1.Pages
 {
     [Authorize]
+    [AllowAnonymous]
     public class PrivacyModel : PageModel
     {
         private readonly ILogger<PrivacyModel> _logger;
