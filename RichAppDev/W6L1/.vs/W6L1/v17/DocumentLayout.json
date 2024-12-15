@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|solutionrelative:studentmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentmvcapp\\data\\smvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|solutionrelative:studentmvcapp\\data\\smvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|solutionrelative:studentmvcapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentmvcapp\\seeddata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|solutionrelative:studentmvcapp\\seeddata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{652E3738-060B-4165-A15A-B28B58A422F1}|StudentClassLibrary\\StudentClassLibrary.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentclasslibrary\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{652E3738-060B-4165-A15A-B28B58A422F1}|StudentClassLibrary\\StudentClassLibrary.csproj|solutionrelative:studentclasslibrary\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{652E3738-060B-4165-A15A-B28B58A422F1}|StudentClassLibrary\\StudentClassLibrary.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentclasslibrary\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|solutionrelative:studentmvcapp\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{652E3738-060B-4165-A15A-B28B58A422F1}|StudentClassLibrary\\StudentClassLibrary.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentclasslibrary\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{652E3738-060B-4165-A15A-B28B58A422F1}|StudentClassLibrary\\StudentClassLibrary.csproj|solutionrelative:studentclasslibrary\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentmvcapp\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|solutionrelative:studentmvcapp\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentmvcapp\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|solutionrelative:studentmvcapp\\views\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentmvcapp\\seeddata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|solutionrelative:studentmvcapp\\seeddata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A86A40D9-73BE-4CB4-ABA1-3DA8C1880984}|StudentMVCApp\\StudentMVCApp.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\w6l1\\studentmvcapp\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Views\\Courses\\Details.cshtml",
               "RelativeDocumentMoniker": "StudentMVCApp\\Views\\Courses\\Details.cshtml",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "StudentMVCApp\\Controllers\\CoursesController.cs",
@@ -114,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentMVCApp\\Controllers\\StudentsController.cs",
@@ -126,20 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Program.cs",
               "RelativeDocumentMoniker": "StudentMVCApp\\Program.cs",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Program.cs",
               "RelativeToolTip": "StudentMVCApp\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T16:30:54.972Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentClassLibrary\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentClassLibrary\\Models\\Student.cs",
@@ -151,32 +151,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentClassLibrary\\Models\\Course.cs",
               "RelativeDocumentMoniker": "StudentClassLibrary\\Models\\Course.cs",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentClassLibrary\\Models\\Course.cs",
               "RelativeToolTip": "StudentClassLibrary\\Models\\Course.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T14:05:52.265Z"
+              "WhenOpened": "2024-11-08T14:05:52.265Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SMVCDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Data\\SMVCDbContext.cs",
               "RelativeDocumentMoniker": "StudentMVCApp\\Data\\SMVCDbContext.cs",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Data\\SMVCDbContext.cs",
               "RelativeToolTip": "StudentMVCApp\\Data\\SMVCDbContext.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T16:29:38.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Views\\Students\\Create.cshtml",
               "RelativeDocumentMoniker": "StudentMVCApp\\Views\\Students\\Create.cshtml",
@@ -188,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\Views\\Students\\Edit.cshtml",
               "RelativeDocumentMoniker": "StudentMVCApp\\Views\\Students\\Edit.cshtml",
@@ -212,15 +213,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "SeedData.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\SeedData\\SeedData.cs",
               "RelativeDocumentMoniker": "StudentMVCApp\\SeedData\\SeedData.cs",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\W6L1\\StudentMVCApp\\SeedData\\SeedData.cs",
               "RelativeToolTip": "StudentMVCApp\\SeedData\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T17:54:20.919Z"
+              "WhenOpened": "2024-11-08T17:54:20.919Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
