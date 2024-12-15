@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f1zK4VDvORg=",
+  "dgSpecHash": "Zhr+XiSnWQc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj",
+  "projectFilePath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robert C\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Robert C\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\RazorPages8.csproj": {}
+    "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\RazorPages8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj": {
+    "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj",
         "projectName": "ClassLibrary",
-        "projectPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj",
+        "projectPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj",
         "packagesPath": "C:\\Users\\Robert C\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\obj\\",
+        "outputPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         }
       },
       "frameworks": {
@@ -91,18 +91,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Robert C\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -124,8 +124,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj"
               }
             }
           }
@@ -138,7 +138,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         }
       },
       "frameworks": {
@@ -176,18 +176,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\RazorPages8.csproj": {
+    "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\RazorPages8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\RazorPages8.csproj",
+        "projectUniqueName": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\RazorPages8.csproj",
         "projectName": "RazorPages8",
-        "projectPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\RazorPages8.csproj",
+        "projectPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\RazorPages8.csproj",
         "packagesPath": "C:\\Users\\Robert C\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\obj\\",
+        "outputPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -209,11 +209,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj": {
-                "projectPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj"
+              "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj"
               },
-              "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\ConsoleApp1.csproj": {
-                "projectPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\ConsoleApp1.csproj"
+              "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\ConsoleApp1.csproj": {
+                "projectPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\ConsoleApp1.csproj"
               }
             }
           }
@@ -226,7 +226,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         }
       },
       "frameworks": {
@@ -289,7 +289,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

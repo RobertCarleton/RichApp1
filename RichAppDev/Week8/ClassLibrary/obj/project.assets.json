@@ -4860,11 +4860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\Robert C\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4896,7 +4896,7 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
+        "auditMode": "all"
       }
     },
     "frameworks": {
@@ -4944,7 +4944,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

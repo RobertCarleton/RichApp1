@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 
 namespace ClassLibrary
 {
@@ -13,21 +14,24 @@ namespace ClassLibrary
     {
         public int Id { get; set; }
         public string Name { get; set; }
+        public string Type { get; set; }
         public int UserId { get; set; } // Foreign Key
         public User User { get; set; }
+        public ICollection<Appointment> Appointments { get; set; }
     }
 
     public class Vet
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public ICollection<Pet> Pets { get; set; } // Many-to-many
+        public ICollection<Pet> Pets { get; set; } // one-to-many
     }
 
     public class Appointment
     {
         public int Id { get; set; }
         public DateTime Date { get; set; }
+        public string Description { get; set; }
         public int PetId { get; set; } // Foreign Key
         public Pet Pet { get; set; }
     }

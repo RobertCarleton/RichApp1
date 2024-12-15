@@ -18,10 +18,23 @@ public class AppDbContext : IdentityDbContext<AppUser>
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        //Many-to-One: Pets → Vet
         modelBuilder.Entity<Vet>()
             .HasMany(v => v.Pets)
             .WithOne()
             .OnDelete(DeleteBehavior.Cascade);
+
+        // One-to-Many: User → Pets
+        modelBuilder.Entity<Pet>()
+            .HasOne(p => p.User)
+            .WithMany(u => u.Pets)
+            .HasForeignKey(p => p.UserId);
+
+        // One-to-Many: Pet → Appointments
+        modelBuilder.Entity<Appointment>()
+            .HasOne(a => a.Pet)
+            .WithMany(p => p.Appointments)
+            .HasForeignKey(a => a.PetId);
     }
 }
 

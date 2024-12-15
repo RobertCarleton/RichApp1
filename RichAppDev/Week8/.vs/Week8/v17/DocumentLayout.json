@@ -1,200 +1,200 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Robert C\\source\\repos\\Week8\\",
+  "WorkspaceRootPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA17CE73-2CCF-4BC8-B97D-A6910324770A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\robert c\\source\\repos\\week8\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA17CE73-2CCF-4BC8-B97D-A6910324770A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\robert c\\source\\repos\\week8\\classlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\robert c\\source\\repos\\week8\\classlibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\classlibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\razorpages8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA17CE73-2CCF-4BC8-B97D-A6910324770A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA17CE73-2CCF-4BC8-B97D-A6910324770A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\classlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\razorpages8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\razorpages8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA17CE73-2CCF-4BC8-B97D-A6910324770A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\robert c\\source\\repos\\week8\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{FA17CE73-2CCF-4BC8-B97D-A6910324770A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{FA17CE73-2CCF-4BC8-B97D-A6910324770A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\robert c\\source\\repos\\week8\\classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{70DA5941-865B-4CA5-8C2E-1A2DD148AB83}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\vets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\vets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\vets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\pets\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\source\\repos\\week8\\razorpages8\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week8\\razorpages8\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{009F4E71-10EE-4EC6-B323-2F5C5559E478}|RazorPages8\\RazorPages8.csproj|solutionrelative:razorpages8\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -205,7 +205,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 50,
           "Children": [
             {
               "$type": "Bookmark",
@@ -217,11 +217,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ConsoleApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -229,11 +229,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "RazorPages8.csproj",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\RazorPages8.csproj",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\RazorPages8.csproj",
               "RelativeDocumentMoniker": "RazorPages8\\RazorPages8.csproj",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\RazorPages8.csproj",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\RazorPages8.csproj",
               "RelativeToolTip": "RazorPages8\\RazorPages8.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -241,23 +241,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Microsoft.NET.TargetFrameworkInference.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.403\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.TargetFrameworkInference.targets",
               "ViewState": "AgIAAEAAAAAAAAAAAAAuwKoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-12-15T20:25:28.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ClassLibrary.csproj",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj",
               "RelativeDocumentMoniker": "ClassLibrary\\ClassLibrary.csproj",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\ClassLibrary.csproj",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\ClassLibrary.csproj",
               "RelativeToolTip": "ClassLibrary\\ClassLibrary.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -265,11 +265,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -277,11 +277,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Index.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -289,11 +289,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Index.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Index.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -301,11 +301,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Delete.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,23 +313,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 6,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Delete.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Delete.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T19:30:56.778Z"
+              "WhenOpened": "2024-12-15T19:30:56.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Details.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -338,11 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Details.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Details.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -350,11 +351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Edit.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -362,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Edit.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Edit.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -374,35 +375,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Create.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T19:30:56.336Z"
+              "WhenOpened": "2024-12-15T19:30:56.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Create.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Vets\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Vets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Vets\\Create.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Vets\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-15T19:30:56.261Z"
+              "WhenOpened": "2024-12-15T19:30:56.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Index.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,9 +415,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Index.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Index.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -424,9 +427,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Delete.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,9 +439,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Delete.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Delete.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -448,9 +451,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Details.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,9 +463,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Details.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Details.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -472,9 +475,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Edit.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,9 +487,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Edit.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Edit.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -496,9 +499,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Create.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,9 +511,9 @@
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Create.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Pets\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Pets\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Pets\\Create.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Pets\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -520,9 +523,9 @@
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Index.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,9 +535,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Index.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Index.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -544,9 +547,9 @@
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Delete.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -556,9 +559,9 @@
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Delete.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Delete.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -568,9 +571,9 @@
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Details.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -580,9 +583,9 @@
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Details.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Details.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -592,9 +595,9 @@
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Edit.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -604,9 +607,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Edit.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Edit.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -616,9 +619,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Create.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -628,9 +631,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Create.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Appointments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Appointments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Appointments\\Create.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Appointments\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -640,9 +643,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Index.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Index.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -652,9 +655,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Index.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Index.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -664,9 +667,9 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Delete.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Delete.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -676,9 +679,9 @@
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Delete.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Delete.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -688,9 +691,9 @@
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Details.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Details.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -700,9 +703,9 @@
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Details.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Details.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -712,9 +715,9 @@
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Edit.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Edit.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -724,9 +727,9 @@
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Edit.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Edit.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -736,9 +739,9 @@
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Create.cshtml.cs",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -748,9 +751,9 @@
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Create.cshtml",
               "RelativeDocumentMoniker": "RazorPages8\\Pages\\Users\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Pages\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Pages\\Users\\Create.cshtml",
               "RelativeToolTip": "RazorPages8\\Pages\\Users\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -758,51 +761,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Program.cs",
               "RelativeDocumentMoniker": "RazorPages8\\Program.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\RazorPages8\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\RazorPages8\\Program.cs",
               "RelativeToolTip": "RazorPages8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T19:16:41.892Z"
+              "WhenOpened": "2024-12-15T19:16:41.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\Data\\AppDbContext.cs",
               "RelativeToolTip": "ClassLibrary\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T19:11:09.51Z"
+              "WhenOpened": "2024-12-15T19:11:09.51Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T18:50:47.374Z"
+              "WhenOpened": "2024-12-15T18:50:47.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\User.cs",
               "RelativeDocumentMoniker": "ClassLibrary\\User.cs",
-              "ToolTip": "C:\\Users\\Robert C\\source\\repos\\Week8\\ClassLibrary\\User.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week8\\ClassLibrary\\User.cs",
               "RelativeToolTip": "ClassLibrary\\User.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAswCUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-15T18:49:46.574Z"
+              "WhenOpened": "2024-12-15T18:49:46.574Z",
+              "EditorCaption": ""
             }
           ]
         }
