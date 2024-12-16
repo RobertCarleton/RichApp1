@@ -1,0 +1,23 @@
+﻿@page
+@model Example19_11_24.Pages.Faculties.FacultiesByDepartmentModel
+
+<h2>Faculties by Department</h2>
+
+@if (Model.FacultiesByDepartment == null || !Model.FacultiesByDepartment.Any())
+{
+    <p>No faculties found.</p>
+}
+else
+{
+    @foreach (var group in Model.FacultiesByDepartment)
+    {
+        <h3>@group.DepartmentName</h3>
+        <ul>
+            @foreach (var faculty in group.Faculties)
+            {
+                <li>@faculty.FirstName @faculty.LastName - @faculty.Email</li>
+            }
+        </ul>
+    }
+}
+

@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\students\\enrollstudent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\students\\enrollstudent.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\courses\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\courses\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\staff\\assignfacultytocoursemodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\staff\\assignfacultytocoursemodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\staff\\assignfacultytocoursemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\staff\\assignfacultytocoursemodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\students\\enrollstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\students\\enrollstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\data\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\data\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\data\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\data\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\courses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\staff\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\staff\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\data\\collegecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\data\\collegecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119171558_modifiedCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Example19-11-24\\Migrations\\20241119171558_modifiedCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119171101_modifiedCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Example19-11-24\\Migrations\\20241119171101_modifiedCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\staff\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\staff\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\staff\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\pages\\staff\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\pages\\staff\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\migrations\\20241119172943_modifiedcoursse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\migrations\\20241119172943_modifiedcoursse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|c:\\users\\dominic.carr@atu.ie\\source\\repos\\example19-11-24\\example19-11-24\\migrations\\20241119172116_modifiedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF46E6C-44AE-402E-9390-34B28D7EE24D}|Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\migrations\\20241119172116_modifiedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Courses\\HomeController.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Courses\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Courses\\HomeController.cs",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Courses\\HomeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T11:37:03.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T11:35:53.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Students\\EnrollStudent.cshtml",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Students\\EnrollStudent.cshtml",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Students\\EnrollStudent.cshtml",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Students\\EnrollStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T17:44:03.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollStudent.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Students\\EnrollStudent.cshtml.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Students\\EnrollStudent.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Students\\EnrollStudent.cshtml.cs",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Students\\EnrollStudent.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:43:44.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssignFacultyToCourseModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\AssignFacultyToCourseModel.cshtml",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Staff\\AssignFacultyToCourseModel.cshtml",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\AssignFacultyToCourseModel.cshtml",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Staff\\AssignFacultyToCourseModel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T16:49:03.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssignFacultyToCourseModel.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\AssignFacultyToCourseModel.cshtml.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Staff\\AssignFacultyToCourseModel.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\AssignFacultyToCourseModel.cshtml.cs",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Staff\\AssignFacultyToCourseModel.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:49:16.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Seeder.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Data\\Seeder.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Data\\Seeder.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Data\\Seeder.cs",
+              "RelativeToolTip": "Example19-11-24\\Data\\Seeder.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAArwD0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:15:28.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Data\\Class.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Data\\Class.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Data\\Class.cs",
+              "RelativeToolTip": "Example19-11-24\\Data\\Class.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:13:03.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Courses\\Details.cshtml",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Courses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Courses\\Details.cshtml",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Courses\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T18:04:16.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CollegeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Data\\CollegeContext.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Data\\CollegeContext.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Data\\CollegeContext.cs",
+              "RelativeToolTip": "Example19-11-24\\Data\\CollegeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:19:27.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241119172943_modifiedCoursse.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119172943_modifiedCoursse.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Migrations\\20241119172943_modifiedCoursse.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119172943_modifiedCoursse.cs",
+              "RelativeToolTip": "Example19-11-24\\Migrations\\20241119172943_modifiedCoursse.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:29:43.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Staff\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\Index.cshtml.cs",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Staff\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:57:10.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241119172116_modifiedCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119172116_modifiedCourse.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Migrations\\20241119172116_modifiedCourse.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119172116_modifiedCourse.cs",
+              "RelativeToolTip": "Example19-11-24\\Migrations\\20241119172116_modifiedCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:21:16.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241119171558_modifiedCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119171558_modifiedCourse.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Migrations\\20241119171558_modifiedCourse.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119171558_modifiedCourse.cs",
+              "RelativeToolTip": "Example19-11-24\\Migrations\\20241119171558_modifiedCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:15:58.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241119171101_modifiedCourse.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119171101_modifiedCourse.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Migrations\\20241119171101_modifiedCourse.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Migrations\\20241119171101_modifiedCourse.cs",
+              "RelativeToolTip": "Example19-11-24\\Migrations\\20241119171101_modifiedCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:11:01.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Staff\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\Details.cshtml.cs",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Staff\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:59:07.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\Index.cshtml",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Staff\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\Index.cshtml",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Staff\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T16:57:07.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Pages\\Staff\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dominic.Carr@atu.ie\\source\\repos\\Example19-11-24\\Example19-11-24\\Pages\\Staff\\Create.cshtml.cs",
+              "RelativeToolTip": "Example19-11-24\\Pages\\Staff\\Create.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T16:50:01.798Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

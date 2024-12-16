@@ -1,0 +1,47 @@
+﻿@page
+@model Example19_11_24.Pages.Students.EnrollmentsModel
+
+<h2>Student Enrollments</h2>
+
+@if (Model.Students == null || !Model.Students.Any())
+{
+    <p>No students are currently enrolled in courses.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Courses</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model.Students)
+            {
+                <tr>
+                    <td>@student.FirstName @student.LastName</td>
+                    <td>
+                        <ul>
+                            @foreach (var course in student.Courses)
+                            {
+                                <li>@course.Name</li>
+                            }
+                        </ul>
+                    </td>
+                    <td>
+                        @foreach (var course in student.Courses)
+                        {
+                            <form method="post" asp-page-handler="Unenroll">
+                                <input type="hidden" name="studentId" value="@student.StudentId" />
+                                <input type="hidden" name="courseId" value="@course.CourseId" />
+                                <button type="submit" class="btn btn-danger">Unenroll from @course.Name</button>
+                            </form>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

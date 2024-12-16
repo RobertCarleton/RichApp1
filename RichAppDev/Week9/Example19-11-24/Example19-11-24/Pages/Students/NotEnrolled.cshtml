@@ -1,0 +1,18 @@
+﻿@page
+@model Example19_11_24.Pages.Students.NotEnrolledModel
+
+<h1>Students Not Enrolled in Any Courses</h1>
+
+@if (Model.Students == null || !Model.Students.Any())
+{
+    <p>No students are currently NOT enrolled in a course</p>
+}
+
+<ul>
+@foreach (var student in Model.Students)
+{
+    <li>@student.FirstName @student.LastName</li>
+}
+</ul>
+
+
