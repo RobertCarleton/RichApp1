@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Migrations\\20241216113754_Finished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Example19-11-24\\Example19-11-24\\Migrations\\20241216113754_Finished.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week9\\example19-11-24\\example19-11-24\\pages\\faculties\\facultiesbydepartment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\example19-11-24\\pages\\faculties\\facultiesbydepartment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\example19-11-24\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Migrations\\20241216101837_NewControllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Example19-11-24\\Example19-11-24\\Migrations\\20241216101837_NewControllers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week9\\example19-11-24\\example19-11-24\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\example19-11-24\\controllers\\facultycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,6 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week9\\example19-11-24\\example19-11-24\\data\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\example19-11-24\\data\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|c:\\users\\robert c\\documents\\github\\richapp1\\richappdev\\week9\\example19-11-24\\example19-11-24\\migrations\\20241216101837_newcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F616E-CF99-441A-BC98-2D8B7322B994}|Example19-11-24\\Example19-11-24\\Example19-11-24.csproj|solutionrelative:example19-11-24\\example19-11-24\\migrations\\20241216101837_newcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,19 +99,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20241216113754_Finished.cs",
+              "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Migrations\\20241216113754_Finished.cs",
+              "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Migrations\\20241216113754_Finished.cs",
+              "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Migrations\\20241216113754_Finished.cs",
+              "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Migrations\\20241216113754_Finished.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:37:54.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "FacultiesByDepartment.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Pages\\Faculties\\FacultiesByDepartment.cshtml.cs",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Pages\\Faculties\\FacultiesByDepartment.cshtml.cs",
               "ToolTip": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Pages\\Faculties\\FacultiesByDepartment.cshtml.cs",
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Pages\\Faculties\\FacultiesByDepartment.cshtml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T11:20:54.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FacultiesByDepartment.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Pages\\Faculties\\FacultiesByDepartment.cshtml",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Pages\\Faculties\\FacultiesByDepartment.cshtml",
@@ -115,12 +132,11 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Pages\\Faculties\\FacultiesByDepartment.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T11:20:32.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T11:20:32.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Enrollments.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Pages\\Students\\Enrollments.cshtml.cs",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Pages\\Students\\Enrollments.cshtml.cs",
@@ -128,12 +144,11 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Pages\\Students\\Enrollments.cshtml.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:55:42.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:55:42.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "NotEnrolled.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Pages\\Students\\NotEnrolled.cshtml.cs",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Pages\\Students\\NotEnrolled.cshtml.cs",
@@ -141,12 +156,11 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Pages\\Students\\NotEnrolled.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:51:17.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:51:17.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Program.cs",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Program.cs",
@@ -154,12 +168,11 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:36:24.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:36:24.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Pages\\Shared\\_Layout.cshtml",
@@ -167,12 +180,11 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T10:20:48.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:20:48.274Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "20241216101837_NewControllers.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Migrations\\20241216101837_NewControllers.cs",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Migrations\\20241216101837_NewControllers.cs",
@@ -180,8 +192,7 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Migrations\\20241216101837_NewControllers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:18:37.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:18:37.692Z"
             },
             {
               "$type": "Document",
@@ -193,8 +204,7 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Pages\\Staff\\Create.cshtml.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAewB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T10:00:29.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T10:00:29.065Z"
             },
             {
               "$type": "Document",
@@ -206,8 +216,7 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Data\\DataModel.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:58:17.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:58:17.99Z"
             },
             {
               "$type": "Document",
@@ -219,12 +228,11 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Controllers\\FacultyController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:57:21.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:57:21.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Enrollments.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Pages\\Students\\Enrollments.cshtml",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Pages\\Students\\Enrollments.cshtml",
@@ -232,12 +240,11 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Pages\\Students\\Enrollments.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:56:12.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:56:12.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "NotEnrolled.cshtml",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Pages\\Students\\NotEnrolled.cshtml",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Pages\\Students\\NotEnrolled.cshtml",
@@ -245,12 +252,11 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Pages\\Students\\NotEnrolled.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-16T09:54:10.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:54:10.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\Robert C\\Documents\\GitHub\\RichApp1\\RichAppDev\\Week9\\Example19-11-24\\Example19-11-24\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Example19-11-24\\Example19-11-24\\Controllers\\StudentController.cs",
@@ -258,8 +264,7 @@
               "RelativeToolTip": "Example19-11-24\\Example19-11-24\\Controllers\\StudentController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T09:51:53.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T09:51:53.914Z"
             }
           ]
         }
