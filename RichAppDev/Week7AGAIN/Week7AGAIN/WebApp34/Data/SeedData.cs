@@ -68,6 +68,7 @@ namespace WebApp34.Data
             }
 
             IdentityResult result;
+            //IdentityResult applicationResult = ApplicationResult.FromIdentityResult(result);
 
             // Check if the role already exists, and create it if it doesn't
             if (!await roleManager.RoleExistsAsync(role))
@@ -100,7 +101,7 @@ namespace WebApp34.Data
             result = await userManager.AddToRoleAsync(user, role);
             if (!result.Succeeded)
             {
-                throw new Exception($"Failed to add user to role {role}: {string.Join(", ", result.Errors.Select(e => e.Description))}");
+                //throw new Exception($"Failed to add user to role {role}: {string.Join(", ", result.Errors.Select(e => e.Description))}");
             }
 
             return result;
@@ -124,8 +125,7 @@ namespace WebApp34.Data
                     State = "WA",
                     Zip = "10999",
                     Email = "debra@example.com",
-                    Status = ContactStatus.Approved,
-                    OwnerID = adminID
+                    Status = ContactStatus.Approved
                 },
                 new Contact
                 {
@@ -135,8 +135,7 @@ namespace WebApp34.Data
                     State = "WA",
                     Zip = "10999",
                     Email = "thorsten@example.com",
-                    Status = ContactStatus.Rejected,
-                    OwnerID = adminID
+                    Status = ContactStatus.Rejected
                 },
                 new Contact
                 {
@@ -146,8 +145,7 @@ namespace WebApp34.Data
                     State = "WA",
                     Zip = "10999",
                     Email = "yuhong@example.com",
-                    Status = ContactStatus.Submitted,
-                    OwnerID = adminID
+                    Status = ContactStatus.Submitted
                 },
                 new Contact
                 {
@@ -157,8 +155,7 @@ namespace WebApp34.Data
                     State = "WA",
                     Zip = "10999",
                     Email = "jon@example.com",
-                    Status = ContactStatus.Submitted,
-                    OwnerID = adminID
+                    Status = ContactStatus.Submitted
                 },
                 new Contact
                 {
@@ -168,8 +165,7 @@ namespace WebApp34.Data
                     State = "WA",
                     Zip = "10999",
                     Email = "diliana@example.com",
-                    Status = ContactStatus.Submitted,
-                    OwnerID = adminID
+                    Status = ContactStatus.Submitted
                 }
              );
             context.SaveChanges();
